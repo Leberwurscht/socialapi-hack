@@ -1,0 +1,9 @@
+{
+    "name": "socialapi-hack", 
+    "license": "MPL 2.0", 
+    "author": "Leberwurscht", 
+    "version": "0.1", 
+    "fullName": "socialapi-hack", 
+    "id": "jid1-yizg0J5SPEsxrA", 
+    "description": "replaces the social API provider by another until Firefox has support for multiple providers"
+}
